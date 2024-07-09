@@ -31,7 +31,7 @@ list_of_files = [
     "Dockerfile",
     ".dockerignore",
     "demo.py",
-    "config/model.yaml"
+    "config/model.yaml",
     "config/schema.yaml"
 
 ]
